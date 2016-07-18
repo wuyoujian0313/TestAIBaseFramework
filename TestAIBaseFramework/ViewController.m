@@ -8,15 +8,25 @@
 
 #import "ViewController.h"
 
+
+
 @interface ViewController ()
 
 @end
 
 @implementation ViewController
 
+-(void)viewDidAppear:(BOOL)animated {
+    [FadePromptView showPromptStatus:@"测试测试" duration:20.0 finishBlock:^{
+        //
+    }];
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {

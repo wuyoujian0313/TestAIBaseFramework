@@ -1,0 +1,6 @@
+framework module AIBaseFramework {
+  umbrella header "AIBaseFramework.h"
+
+  export *
+  module * { export * }
+}
