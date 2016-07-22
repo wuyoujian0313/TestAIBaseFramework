@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AIBaseFramework.h</key>
 		<data>
-		jeY8U/LtK9fmLJRtdS05ijdKMEY=
+		ToC0uCDMqZgXpYcZE8RITLCr0r0=
 		</data>
 		<key>Headers/src/AFNetworking/AFHTTPSessionManager.h</key>
 		<data>
@@ -38,7 +38,11 @@
 		</data>
 		<key>Headers/src/Category/Category.h</key>
 		<data>
-		NtIrKyW7HItuAR03uXMN+vMtOEw=
+		tEfVlp8C8Kosrfj9bPmHmk3qPi4=
+		</data>
+		<key>Headers/src/Category/NSData+Crypto.h</key>
+		<data>
+		Bn8yxVObgAkamCDKQUli3vbyXqs=
 		</data>
 		<key>Headers/src/Category/NSObject+Utility.h</key>
 		<data>
@@ -84,6 +88,14 @@
 		<data>
 		HNmpgHtuxPFkOfEllihbPBZ2du0=
 		</data>
+		<key>Headers/src/Owns/BluetoothEngine.h</key>
+		<data>
+		kEN+FYu6gMlYtQJzYIBtsZV6v6g=
+		</data>
+		<key>Headers/src/Owns/CycleBannerView.h</key>
+		<data>
+		TpAB9KaaU1FCVE/1x16NenxTc7w=
+		</data>
 		<key>Headers/src/Owns/DeviceInfo.h</key>
 		<data>
 		we+ZtgACkb94oRMLNRg61MCu0Pc=
@@ -96,17 +108,73 @@
 		<data>
 		/6+BH4/bS5UpW2dq1MGrVdxrioY=
 		</data>
+		<key>Headers/src/Owns/FileCache.h</key>
+		<data>
+		8txdmQVeXLfMeLseKxUW5Ug+vtc=
+		</data>
+		<key>Headers/src/Owns/FileStreamOperation.h</key>
+		<data>
+		RA7oH3DYcTHBws45YFR1kmt6aD4=
+		</data>
+		<key>Headers/src/Owns/GridMenuCell.h</key>
+		<data>
+		bwHIqOuzc6eqilUvlWbcZFh1c10=
+		</data>
+		<key>Headers/src/Owns/GridMenuView.h</key>
+		<data>
+		aAfQFN4kKwEvoeNs0XOJTshZGoY=
+		</data>
+		<key>Headers/src/Owns/ImagePickerController.h</key>
+		<data>
+		IYGI4kh+b3xZP55wb10vnOHI39A=
+		</data>
+		<key>Headers/src/Owns/LineImageByteData.h</key>
+		<data>
+		DlACt2qAjGiPKlF1ludHMEW8CzU=
+		</data>
 		<key>Headers/src/Owns/LineView.h</key>
 		<data>
 		cVroPTt98qSVgL1lbm7W+s6+wDs=
 		</data>
+		<key>Headers/src/Owns/LocalAbilityManager.h</key>
+		<data>
+		Ew9Vy3Zg/JW6XvJdfX9mB40kht8=
+		</data>
+		<key>Headers/src/Owns/LocalAbilityModel.h</key>
+		<data>
+		fk51TP1mqZtNG2Z6YpFS3IKEm+M=
+		</data>
+		<key>Headers/src/Owns/MailSMSController.h</key>
+		<data>
+		GLnouA2kpMFaNvGWdIOf9pBSgBY=
+		</data>
+		<key>Headers/src/Owns/NetResultBase.h</key>
+		<data>
+		0vsl7afymLMYF2mhJXkoY2yxm6I=
+		</data>
+		<key>Headers/src/Owns/NetworkTask.h</key>
+		<data>
+		VXvVLv9cTCzAwmdsa+vUxqYQFKY=
+		</data>
 		<key>Headers/src/Owns/Owns.h</key>
 		<data>
-		sCl+43nh/14ELsHt0BzLzLv6gIc=
+		wqYLxX2+w7NXRltGoaggK6AHMs8=
+		</data>
+		<key>Headers/src/Owns/PickBGImageByteData.h</key>
+		<data>
+		p5Nw8Flb8FL0zYcTWtorUI21f10=
+		</data>
+		<key>Headers/src/Owns/QRViewController.h</key>
+		<data>
+		Po24pAbsXi66XGs85hwo2dhaDD8=
+		</data>
+		<key>Headers/src/Owns/SignatureView.h</key>
+		<data>
+		0X5ngT9ipzQ74fKAw1OU12L2WMU=
 		</data>
 		<key>Headers/src/SDWebImage/MKAnnotationView+WebCache.h</key>
 		<data>
-		y/A0vat2JXTcP3+HxEYvHWzw/co=
+		ohy63tRIDEnqTZ24JqhfuzfE4lc=
 		</data>
 		<key>Headers/src/SDWebImage/NSData+ImageContentType.h</key>
 		<data>
@@ -114,11 +182,11 @@
 		</data>
 		<key>Headers/src/SDWebImage/SDImageCache.h</key>
 		<data>
-		90YeS8hMYyIchPT1tWuMhC37PoA=
+		wdKVqrwqMRVo0dG60K1qtpWgEnA=
 		</data>
 		<key>Headers/src/SDWebImage/SDWebImageCompat.h</key>
 		<data>
-		azN4Bh9ohuVLPftf9WEJA/AAXoU=
+		HWIwEyOWcL3Ce/Lbn6P1Peg782o=
 		</data>
 		<key>Headers/src/SDWebImage/SDWebImageDecoder.h</key>
 		<data>
@@ -126,15 +194,15 @@
 		</data>
 		<key>Headers/src/SDWebImage/SDWebImageDownloader.h</key>
 		<data>
-		qB0QjxI2TY/O9lL5aybp69MfvLQ=
+		QYoyqeIweEsadTzaMtWYzGdwQWY=
 		</data>
 		<key>Headers/src/SDWebImage/SDWebImageDownloaderOperation.h</key>
 		<data>
-		nLKiq8LMMte4gERJ5b7j9la7zI4=
+		jEs+BNkFFenYQMH1Os/T86SDhYs=
 		</data>
 		<key>Headers/src/SDWebImage/SDWebImageManager.h</key>
 		<data>
-		KOVFpwV4L5AmNtzAiaD3JteVJqE=
+		mxI1ULFeL2Is8lHBFyYSGNsqKF4=
 		</data>
 		<key>Headers/src/SDWebImage/SDWebImageOperation.h</key>
 		<data>
@@ -142,11 +210,11 @@
 		</data>
 		<key>Headers/src/SDWebImage/SDWebImagePrefetcher.h</key>
 		<data>
-		glm5V1ZoeUYWXrUyuVr7GaGDLF0=
+		x1nLYFjk5HgW9I12+yJau6YkmvU=
 		</data>
 		<key>Headers/src/SDWebImage/UIButton+WebCache.h</key>
 		<data>
-		A3t9HkJkUhkhU9yEtMbFFrBNDgI=
+		AXXacE1rBg88yANu+Vk+8O6Ws8I=
 		</data>
 		<key>Headers/src/SDWebImage/UIImage+GIF.h</key>
 		<data>
@@ -162,15 +230,31 @@
 		</data>
 		<key>Headers/src/SDWebImage/UIImageView+HighlightedWebCache.h</key>
 		<data>
-		SNJH5D7Oy0vytVwOWTCW5c8O8XA=
+		M+t4TG7ZqQwrlqRsBkfJTDaHZJU=
 		</data>
 		<key>Headers/src/SDWebImage/UIImageView+WebCache.h</key>
 		<data>
-		Z61uNbBRoJLxoTnMXliy2ADSIAQ=
+		aQpxhGg3Erpaz94w16jivMGChoY=
 		</data>
 		<key>Headers/src/SDWebImage/UIView+WebCacheOperation.h</key>
 		<data>
 		JZaciJaOfDUqGFVhaI8EJHtP96E=
+		</data>
+		<key>Headers/src/WebViewKits/CacheURLProtocol.h</key>
+		<data>
+		yM47RGCTJTOdzvTuegmBeSv92os=
+		</data>
+		<key>Headers/src/WebViewKits/ScriptPluginBase.h</key>
+		<data>
+		Sh8WysuJiYJo2T2pHIMhxoQUwSU=
+		</data>
+		<key>Headers/src/WebViewKits/WebViewKit.h</key>
+		<data>
+		Iu4gkVLtehKnlwUC+mRxXjIh/To=
+		</data>
+		<key>Headers/src/WebViewKits/WebViewKitController.h</key>
+		<data>
+		uEH35iyRnLPH2gwZ6OliA2H6ydU=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -187,11 +271,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jeY8U/LtK9fmLJRtdS05ijdKMEY=
+			ToC0uCDMqZgXpYcZE8RITLCr0r0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QDnOh7XPtRVaeedbZ7Srr7hjoPofjZlz7AJ6j9C5GX4=
+			HaPRduwJ573O1EQLL9LvmFY/SKTC655m97E2HWVFRys=
 			</data>
 		</dict>
 		<key>Headers/src/AFNetworking/AFHTTPSessionManager.h</key>
@@ -275,11 +359,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NtIrKyW7HItuAR03uXMN+vMtOEw=
+			tEfVlp8C8Kosrfj9bPmHmk3qPi4=
 			</data>
 			<key>hash2</key>
 			<data>
-			XrUDIfHv/RfD26AXqOr+n10rmTDfKnzyHSsqXwwtSGM=
+			C+hl91T8hlx68V+ids6G2o6gWUu9Vc9M7kCVbDMjqv8=
+			</data>
+		</dict>
+		<key>Headers/src/Category/NSData+Crypto.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Bn8yxVObgAkamCDKQUli3vbyXqs=
+			</data>
+			<key>hash2</key>
+			<data>
+			hSnCxNO11ST/nawcIP8IVe0qN6WMDPal//3O7rpDtIY=
 			</data>
 		</dict>
 		<key>Headers/src/Category/NSObject+Utility.h</key>
@@ -403,6 +498,28 @@
 			mkjozlnWKFwjYySDjVcid59m68SCy0XmNHPYlxBLrkw=
 			</data>
 		</dict>
+		<key>Headers/src/Owns/BluetoothEngine.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kEN+FYu6gMlYtQJzYIBtsZV6v6g=
+			</data>
+			<key>hash2</key>
+			<data>
+			NkTmMUm1VP/UAxRPLqcgdVQXSd4Pab8oTXHBTSGleqs=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/CycleBannerView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TpAB9KaaU1FCVE/1x16NenxTc7w=
+			</data>
+			<key>hash2</key>
+			<data>
+			v3+13ZsSTUgniuymzaqWjOGIRfwvXqlspWcqwOXLxfE=
+			</data>
+		</dict>
 		<key>Headers/src/Owns/DeviceInfo.h</key>
 		<dict>
 			<key>hash</key>
@@ -436,6 +553,72 @@
 			jIomr8thrQ20vSr3Uh/ypgccQWjWT2Tt/sE0YeQwNME=
 			</data>
 		</dict>
+		<key>Headers/src/Owns/FileCache.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8txdmQVeXLfMeLseKxUW5Ug+vtc=
+			</data>
+			<key>hash2</key>
+			<data>
+			9hc8ldiVdJj+aIn9bVPsoYsVTF+szkTvFQ86RC+8jho=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/FileStreamOperation.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RA7oH3DYcTHBws45YFR1kmt6aD4=
+			</data>
+			<key>hash2</key>
+			<data>
+			oFSnDqojYVM9gJeGHMklO2t59FQzF5KmmEez6Owfebo=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/GridMenuCell.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bwHIqOuzc6eqilUvlWbcZFh1c10=
+			</data>
+			<key>hash2</key>
+			<data>
+			lerzXvJ/Y/9OXyHtokqURNF7D2cqCVFhcieWCgso0mQ=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/GridMenuView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aAfQFN4kKwEvoeNs0XOJTshZGoY=
+			</data>
+			<key>hash2</key>
+			<data>
+			QqZiEGl1qhWgeAOs1BNFsPzbUjcdBnnhOcwR8/4jD3c=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/ImagePickerController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IYGI4kh+b3xZP55wb10vnOHI39A=
+			</data>
+			<key>hash2</key>
+			<data>
+			QcJRp+CZ23HR59bG7QwTE+nSDmi/1brEDlxxhxK7lVI=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/LineImageByteData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DlACt2qAjGiPKlF1ludHMEW8CzU=
+			</data>
+			<key>hash2</key>
+			<data>
+			brC+fQ9RSmNq9W/7qAyVBnAfKPs7RWQHYfi+LNTs1dw=
+			</data>
+		</dict>
 		<key>Headers/src/Owns/LineView.h</key>
 		<dict>
 			<key>hash</key>
@@ -447,26 +630,114 @@
 			zeckJAnXblScpODqXHrwzIMHePP9dFW0gxJmXoRxBNM=
 			</data>
 		</dict>
+		<key>Headers/src/Owns/LocalAbilityManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ew9Vy3Zg/JW6XvJdfX9mB40kht8=
+			</data>
+			<key>hash2</key>
+			<data>
+			6Q/J475q/eSyQWjbWLZmG+c5X8iNZ5iDz3zPO6eR38s=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/LocalAbilityModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fk51TP1mqZtNG2Z6YpFS3IKEm+M=
+			</data>
+			<key>hash2</key>
+			<data>
+			faziimfMRdvIjwuaqY0/yDGgLyt8S1PGTyuJUdSAJeA=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/MailSMSController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GLnouA2kpMFaNvGWdIOf9pBSgBY=
+			</data>
+			<key>hash2</key>
+			<data>
+			l5Vfi9BWnUIjgfFSEELi2eh05rrjutQ11SoHkDcKn8A=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/NetResultBase.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0vsl7afymLMYF2mhJXkoY2yxm6I=
+			</data>
+			<key>hash2</key>
+			<data>
+			zedkyuReVuWqwNsanAhSQjJ06cjbdys1BSXrGf8AxeQ=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/NetworkTask.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VXvVLv9cTCzAwmdsa+vUxqYQFKY=
+			</data>
+			<key>hash2</key>
+			<data>
+			DDnOQz+FWM8d2MDq6pxa4F9vCfMAUGMrou27dKLZlXI=
+			</data>
+		</dict>
 		<key>Headers/src/Owns/Owns.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sCl+43nh/14ELsHt0BzLzLv6gIc=
+			wqYLxX2+w7NXRltGoaggK6AHMs8=
 			</data>
 			<key>hash2</key>
 			<data>
-			s1I+8NF4jBQJ6jxcew0BTHLlByJFFyuhkPyM1GkYFqk=
+			4oxzR/XTEPuzSfNmLGljtwssgipRFKh1bveXi8+VT08=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/PickBGImageByteData.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p5Nw8Flb8FL0zYcTWtorUI21f10=
+			</data>
+			<key>hash2</key>
+			<data>
+			rvAxBYztB8RiomU/Wskc+KDpZuY0bArAqD1vmwdwOnc=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/QRViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Po24pAbsXi66XGs85hwo2dhaDD8=
+			</data>
+			<key>hash2</key>
+			<data>
+			K0NnNNWtk0/6qTci7I27lBZ3SuD0+1PSZ27SaC/TryY=
+			</data>
+		</dict>
+		<key>Headers/src/Owns/SignatureView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0X5ngT9ipzQ74fKAw1OU12L2WMU=
+			</data>
+			<key>hash2</key>
+			<data>
+			+W6a/RzRkN2DYYUsYpd3o8C6eOPrxGqwUshe1MjYuD4=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/MKAnnotationView+WebCache.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			y/A0vat2JXTcP3+HxEYvHWzw/co=
+			ohy63tRIDEnqTZ24JqhfuzfE4lc=
 			</data>
 			<key>hash2</key>
 			<data>
-			cV8z2mrFiAUeXyZ358hU8pYPlN/nk5BdVKpAJXGDsek=
+			u/fVm78kAeiJ0OEVmu8z0854+xtGT0FVZYeiMV8CTxY=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/NSData+ImageContentType.h</key>
@@ -484,22 +755,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			90YeS8hMYyIchPT1tWuMhC37PoA=
+			wdKVqrwqMRVo0dG60K1qtpWgEnA=
 			</data>
 			<key>hash2</key>
 			<data>
-			drHdRTK06nxF10CY+HGX2pkTyF10J1BosUXGKeol22Q=
+			gE1Ra1zCare1qkrtMO3kgfp9XcsYu1/Mbu5Scvb53w8=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/SDWebImageCompat.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			azN4Bh9ohuVLPftf9WEJA/AAXoU=
+			HWIwEyOWcL3Ce/Lbn6P1Peg782o=
 			</data>
 			<key>hash2</key>
 			<data>
-			KEWomN5xyWbhraFWBU/JTFlXaAOoouXHv/tgFbL32qQ=
+			MjlZEyZyvJcGSiDGOJpJqAQtZN2utHwU6NfTAicEFo4=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/SDWebImageDecoder.h</key>
@@ -517,33 +788,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qB0QjxI2TY/O9lL5aybp69MfvLQ=
+			QYoyqeIweEsadTzaMtWYzGdwQWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q8fzEdRv32twTGNdo1QJMU0wGoDU/zSF+qyIonuXtV0=
+			S527dPHogboW/Jsil3h3oX+uThElJO3Hpc5IHF1vw34=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/SDWebImageDownloaderOperation.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nLKiq8LMMte4gERJ5b7j9la7zI4=
+			jEs+BNkFFenYQMH1Os/T86SDhYs=
 			</data>
 			<key>hash2</key>
 			<data>
-			w7qEx1AoFShy/4YNJZNKwW4v22/m8EztAKRHEJmuqpE=
+			ngt74ZSGoDY0jAghGi4BO+ZSxMz5CSdDUkINE05KaQg=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/SDWebImageManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KOVFpwV4L5AmNtzAiaD3JteVJqE=
+			mxI1ULFeL2Is8lHBFyYSGNsqKF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tGaca1mYy6v9/feaKnCPXHRyJvTx7vMjuTuLecjR000=
+			6A3PC4Q5DHNoCMpj5nJAsX68FYF3mQ6JXZduC4eXY0w=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/SDWebImageOperation.h</key>
@@ -561,22 +832,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			glm5V1ZoeUYWXrUyuVr7GaGDLF0=
+			x1nLYFjk5HgW9I12+yJau6YkmvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			yaeMAU8qs/U49sAxSD26kSC7H6i9qA9zO/q3zheQNjs=
+			ZI5ZfL+gJajge4Std4nTgvJJ9RUeb7Wo8MgzZD09jW8=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/UIButton+WebCache.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A3t9HkJkUhkhU9yEtMbFFrBNDgI=
+			AXXacE1rBg88yANu+Vk+8O6Ws8I=
 			</data>
 			<key>hash2</key>
 			<data>
-			zEuOycySNQeMNY9tqU7nTk6/ao0mOUHWGExj6lK6Z1k=
+			CvsqFn3N90tSwlIJ4/iPuuHAvF3jFk7Wf5EP1ppK+iM=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/UIImage+GIF.h</key>
@@ -616,22 +887,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SNJH5D7Oy0vytVwOWTCW5c8O8XA=
+			M+t4TG7ZqQwrlqRsBkfJTDaHZJU=
 			</data>
 			<key>hash2</key>
 			<data>
-			/d5d7DCIzrpwniu9G6ejT2AFNFgngUMNMk3U/z30A9M=
+			PdSxu+L4fm+QfjwHhuDpQyZahGg1up+z32qLqz8x/zg=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/UIImageView+WebCache.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z61uNbBRoJLxoTnMXliy2ADSIAQ=
+			aQpxhGg3Erpaz94w16jivMGChoY=
 			</data>
 			<key>hash2</key>
 			<data>
-			jGIjdQHUwwpwIFV1tgybWASK0Dv7Jl5MWOUAbcAeosg=
+			6e7ywkmrKHWPJNc/gtFGupIJRtCd2MuZBk9unUszR5E=
 			</data>
 		</dict>
 		<key>Headers/src/SDWebImage/UIView+WebCacheOperation.h</key>
@@ -643,6 +914,50 @@
 			<key>hash2</key>
 			<data>
 			fjQOx6IJQmLYm1mJFPJSeK2Vj7zaY73bGOKH4UaOudA=
+			</data>
+		</dict>
+		<key>Headers/src/WebViewKits/CacheURLProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yM47RGCTJTOdzvTuegmBeSv92os=
+			</data>
+			<key>hash2</key>
+			<data>
+			xUWPsEvwYbKUdKOHNOYpRTWGBaSzfpj1TxSRVej99LM=
+			</data>
+		</dict>
+		<key>Headers/src/WebViewKits/ScriptPluginBase.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Sh8WysuJiYJo2T2pHIMhxoQUwSU=
+			</data>
+			<key>hash2</key>
+			<data>
+			sva7G8qbNUIlqd6rKTQDo7OHNUghRTbpweWb0b58bp8=
+			</data>
+		</dict>
+		<key>Headers/src/WebViewKits/WebViewKit.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Iu4gkVLtehKnlwUC+mRxXjIh/To=
+			</data>
+			<key>hash2</key>
+			<data>
+			79qYtv9rS8b0m/OBvxIruwPrP3z5RwQ2Yqv6bnDhwuU=
+			</data>
+		</dict>
+		<key>Headers/src/WebViewKits/WebViewKitController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uEH35iyRnLPH2gwZ6OliA2H6ydU=
+			</data>
+			<key>hash2</key>
+			<data>
+			8rH8NZdzAQ6Jv2YhLMToNgnq9vtzYGcg9uzZjILfAV0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
