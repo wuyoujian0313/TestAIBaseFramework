@@ -7,16 +7,71 @@
 //
 
 #import "AppDelegate.h"
+#import <AIShare/SharedManager.h>
+#import <TencentOpenAPI/QQApiInterface.h>
+#import "WXApi.h"
+
+
+// 分享相关
+#define QQSDKAppKey                 @"alkvsxWc7Eh7GwGk"
+#define QQSDKAppId                  @"1105106734"
+
+#define WeiXinSDKAppSecret          @"dce5699086e990df3104052ce298f573"
+#define WeiXinSDKAppId              @"wx7a296d05150143e5"
+
+#define WeiboAppKey                 @"2045436852"
 
 @interface AppDelegate ()
-
 @end
+
+
 
 @implementation AppDelegate
 
+- (void)registerSharedSDK {
+    
+    SharedPlatformSDKInfo *sdk1 = [SharedPlatformSDKInfo platform:AISharedPlatformWechat appId:WeiXinSDKAppId secret:WeiXinSDKAppSecret];
+    SharedPlatformSDKInfo *sdk2 = [SharedPlatformSDKInfo platform:AISharedPlatformQQ appId:QQSDKAppId secret:QQSDKAppKey];
+    SharedPlatformSDKInfo *sdk3 = [SharedPlatformSDKInfo platform:AISharedPlatformWeibo appId:WeiboAppKey secret:WeiboAppKey];
+    [[SharedManager sharedSharedManager] registerSharedPlatform:[NSArray arrayWithObjects:sdk1,sdk2,sdk3, nil]];
+}
+
+- (BOOL)application:(UIApplication *)application handleOpenURL:(NSURL *)url {
+    if ([[url absoluteString] hasPrefix:WeiXinSDKAppId]) {
+        //
+        return [WXApi handleOpenURL:url delegate:[SharedManager sharedSharedManager].wxCallback];
+    } else if ([[url absoluteString] hasPrefix:QQSDKAppId]) {
+        return [QQApiInterface handleOpenURL:url delegate:[SharedManager sharedSharedManager].qqCallback];
+    }
+    
+    return YES;
+}
+
+- (BOOL)application:(UIApplication *)application openURL:(NSURL *)url sourceApplication:(NSString *)sourceApplication annotation:(id)annotation {
+    if ([[url absoluteString] hasPrefix:WeiXinSDKAppId]) {
+        //
+        return [WXApi handleOpenURL:url delegate:[SharedManager sharedSharedManager].wxCallback];
+    } else if ([[url absoluteString] hasPrefix:QQSDKAppId]) {
+        return [QQApiInterface handleOpenURL:url delegate:[SharedManager sharedSharedManager].qqCallback];
+    }
+    
+    return YES;
+}
+
+- (BOOL)application:(UIApplication *)app openURL:(NSURL *)url options:(NSDictionary<NSString*, id> *)options {
+    if ([[url absoluteString] hasPrefix:WeiXinSDKAppId]) {
+        //
+        return [WXApi handleOpenURL:url delegate:[SharedManager sharedSharedManager].wxCallback];
+    } else if ([[url absoluteString] hasPrefix:QQSDKAppId]) {
+        return [QQApiInterface handleOpenURL:url delegate:[SharedManager sharedSharedManager].qqCallback];
+    }
+    
+    return YES;
+}
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    [self registerSharedSDK];
     return YES;
 }
 

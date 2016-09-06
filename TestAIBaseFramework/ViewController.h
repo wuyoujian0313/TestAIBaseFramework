@@ -7,11 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
-#import <AIBaseFramework/AIBaseFramework.h>
+#import <AIBase/AIBase.h>
 
 @interface ViewController : BaseVC
-
-
 @end
 

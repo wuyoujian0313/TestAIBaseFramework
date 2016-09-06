@@ -1,0 +1,6 @@
+framework module AIShare {
+  umbrella header "AIShare.h"
+
+  export *
+  module * { export * }
+}
